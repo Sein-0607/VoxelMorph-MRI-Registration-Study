@@ -20,3 +20,6 @@ python3 inference.py
 # Dataset
 [Neurite OASIS Sample Data for Training](https://github.com/adalca/medical-datasets/blob/master/neurite-oasis.md)<br/>
 [MRI Sample Data for Inference](https://surfer.nmr.mgh.harvard.edu/pub/data/voxelmorph/tutorial_data.tar.gz)
+
+# References
+https://github.com/voxelmorph/voxelmorph
