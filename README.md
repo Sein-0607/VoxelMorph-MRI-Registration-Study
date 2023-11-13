@@ -7,7 +7,7 @@ This code was tested with 3D MRI brain volumes.
 ## Training
 
 ```
-python3 make_list_us.py
+python3 make_list_us.py (train_list_3d.txt 생성)
 python3 ./scripts/tf/train.py --img-list ./train_list_us_mov.txt --img-fix-list ./train_list_us_fix.txt --model-dir ./model/outputs
 ```
 
