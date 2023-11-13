@@ -11,7 +11,10 @@ This code was tested with 3D MRI brain volumes.
 ```
 python3 setup.py 
 python3 make_list_us.py 
-python3 ./scripts/tf/train.py --img-list ./train_list_us_mov.txt --img-fix-list ./train_list_us_fix.txt --model-dir ./model/outputs
+python3 ./scripts/tf/train.py --img-list ./train_list_3d.txt --model-dir ./model/outputs
+
+[gpu--version]
+python3 ./scripts/tf/train.py --img-list ./train_list_3d.txt --model-dir ./model/outputs --gpu 1
 ```
 
 ## Inference
