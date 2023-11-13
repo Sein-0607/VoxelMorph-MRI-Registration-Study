@@ -1,5 +1,5 @@
 # VoxelMorph-MRI-Registration-Study
-VoxelMorph model for performing medical image registration
+VoxelMorph model for performing 3D medical image registration
 
 # Medical image registration for MRI
 This code was tested with 3D MRI brain volumes.
