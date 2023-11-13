@@ -30,7 +30,7 @@ python3 inference.py
 # References
 https://github.com/voxelmorph/voxelmorph
 ```
-[![Paper](https://img.shields.io/badge/Paper-arXiv-blue)](https://arxiv.org/abs/[논문의 ID])
+[![Paper](https://img.shields.io/badge/Paper-arXiv-blue)](https://arxiv.org/abs/arXiv:1809.05231)
 ```
 @article{Balakrishnan_2019,
   doi = {10.1109/tmi.2019.2897538},
