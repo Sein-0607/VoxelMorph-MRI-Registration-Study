@@ -31,3 +31,18 @@ python3 inference.py
 https://github.com/voxelmorph/voxelmorph
 
 [![Paper](https://img.shields.io/badge/Paper-IEEE%20Transactions%20on%20Medical%20Imaging-lightgrey)](https://doi.org/10.1109/tmi.2019.2897538)
+
+```bibtex
+@article{Balakrishnan_2019,
+  author = {Guha Balakrishnan and Amy Zhao and Mert R. Sabuncu and John Guttag and Adrian V. Dalca},
+  title = {{VoxelMorph}: A Learning Framework for Deformable Medical Image Registration},
+  journal = {{IEEE} Transactions on Medical Imaging},
+  year = 2019,
+  volume = 38,
+  number = 8,
+  pages = {1788--180},
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+  doi = {10.1109/tmi.2019.2897538},
+  url = {https://doi.org/10.1109/tmi.2019.2897538},
+}
+```
